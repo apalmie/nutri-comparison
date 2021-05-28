@@ -15,6 +15,7 @@ Product Selection Screen
  - User inputs to filter/search for products
  - Card Display of selected items
     - When clicking on a Product Card, the application **routes** to the second/third tab to provide more detail on the products nutrition.
+       - Uses Hash routing with Product Id to route to product detilas
     - Possibilities include: ingredients list, other non-common nutrients and others
  - Upon "Compare" submission the application will display two nutrition labels side-by-side and have the serving size be editable
      - These nutrition labels will auto-adjust upon changing of the serving size.
@@ -44,5 +45,12 @@ Product Selection Screen
 
 Main Screen
 ![image](https://user-images.githubusercontent.com/82067454/119920780-1c581b80-bf2a-11eb-9bd0-990369f88784.png)
+
+Product 1 Details
+![image](https://user-images.githubusercontent.com/82067454/119922641-73132480-bf2d-11eb-8ffa-cb350b98c8e1.png)
+
+Product 2 Details
+![image](https://user-images.githubusercontent.com/82067454/119922675-86be8b00-bf2d-11eb-8fdd-656a98869325.png)
+
 
 
